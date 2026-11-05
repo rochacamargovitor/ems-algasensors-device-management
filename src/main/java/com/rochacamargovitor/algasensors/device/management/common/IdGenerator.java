@@ -1,4 +1,4 @@
-package com.rochacamargovitor.algasensors.device.management;
+package com.rochacamargovitor.algasensors.device.management.common;
 
 import io.hypersistence.tsid.TSID;
 
